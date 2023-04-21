@@ -19,5 +19,6 @@ public class TP5Grupo11 {
         System.out.println("------------------");
         String palabra2 = "ORnitoRrinco";
         System.out.println("La cantidad de letras 'r' que tiene la palabra -"+palabra2+"- es de:"+Arreglo.cuentaCaracter(palabra2, 'r'));
+        System.out.println("------------------");
     }
 }
